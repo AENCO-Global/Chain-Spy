@@ -1,5 +1,5 @@
 {
-  "name": "catapult-api-tools",
+  "name": "chain-spy",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -9,7 +9,13 @@
     "lint": "eslint websocket",
     "lint:jenkins": "eslint -o tests.catapult.lint.xml -f junit websocket || exit 0"
   },
+  "homepage": "https://github.com/AENCO-Global/Chain-Spy",
   "keywords": [],
+  "bugs": "https://github.com/AENCO-Global/Chain-Spy/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AENCO-Global/Chain-Spy.git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
